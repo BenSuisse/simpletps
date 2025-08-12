@@ -1,0 +1,8 @@
+name: simpletps
+version: '1.0'
+main: ch.bensuisse.simpletps.Simpletps
+api-version: '1.21'
+commands:
+  tps:
+    description: Schaltet die TPS/MSPT Anzeige ein oder aus.
+    usage: /tps
